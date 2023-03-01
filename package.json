@@ -1,0 +1,11 @@
+{
+  "name": "hidrocompras",
+  "version": "1.0.0",
+  "description": "hidrocompras",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "cludit4",
+  "license": "ISC"
+}
