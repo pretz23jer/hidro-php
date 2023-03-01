@@ -24,7 +24,10 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 |
 */
 //$config['base_url'] = 'https://pretz23jer.github.io/hidro-php/';
+<<<<<<< HEAD
 
+=======
+>>>>>>> 348720e144122a3e23611b5109e81c461ec82486
 /*
 |--------------------------------------------------------------------------
 | Index File
