@@ -8,7 +8,6 @@ class App extends CI_Controller {
 		$this->load->helper('form');
 		$this->load->library('session');
 		$this->load->helper('url');
-		$this->load->model('App_model');
 	}
 
 
