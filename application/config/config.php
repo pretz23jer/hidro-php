@@ -24,7 +24,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 |
 */
 //$config['base_url'] = 'http://localhost/inventario/';
-
+$config['base_url'] = 'https://pretz23jer.github.io/hidro-php/';
 /*
 |--------------------------------------------------------------------------
 | Index File
